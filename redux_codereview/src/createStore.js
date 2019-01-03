@@ -46,7 +46,7 @@ export default function createStore(reducer, preloadedState, enhancer) {
     preloadedState = undefined
   }
 
-  //如果传入了enhancer
+  //如果传入了enhancer,就直接执行enhancer
   if (typeof enhancer !== 'undefined') {
     //如果enhancer不是函数类型，报错
     if (typeof enhancer !== 'function') {
@@ -61,6 +61,8 @@ export default function createStore(reducer, preloadedState, enhancer) {
   if (typeof reducer !== 'function') {
     throw new Error('Expected the reducer to be a function.')
   }
+
+
 
   let currentReducer = reducer
   let currentState = preloadedState
@@ -92,8 +94,9 @@ export default function createStore(reducer, preloadedState, enhancer) {
 
     let isSubscribed = true
 
-    //先备份，再更新
+    //先备份
     ensureCanMutateNextListeners()
+    //再更新
     nextListeners.push(listener)
 
     return function unsubscribe() {
@@ -116,7 +119,7 @@ export default function createStore(reducer, preloadedState, enhancer) {
     }
   }
 
-  //dispatch的本质就是调用reducer来获取新的state，然后把新的state赋值给store对象的currentState。
+  //dispatch的本质就是传入当前的state来执行reducer，然后把获取到的新state赋值给currentState。
   function dispatch(action) {
     if (!isPlainObject(action)) {
       throw new Error(

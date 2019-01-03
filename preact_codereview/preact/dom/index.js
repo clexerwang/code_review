@@ -36,7 +36,7 @@ export function removeNode(node) {
  *	@param {Boolean} isSvg	Are we currently diffing inside an svg?
  *	@private
  */
-//							dom,  name,  old[name], old[name]=undefined, isSVGMode
+//							dom,  name,  old[name], old[name]=undefined/attrs[name], isSVGMode
 export function setAccessor(node, name,  old,       value,     isSvg) {
 
 	if (name==='className') name = 'class';

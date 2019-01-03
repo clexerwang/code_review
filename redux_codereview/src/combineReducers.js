@@ -111,6 +111,19 @@ function assertReducerShape(reducers) {
  * @returns {Function} A reducer function that invokes every reducer inside the
  * passed object, and builds a state object with the same shape.
  */
+/*
+* combineReducer所做的就是将传入的对象去重后存入到finalReducers中，
+* 然后执行每个reducer且只传入action，目的是检测每个reducer是否都有默认的非空返回值
+* 最后返回一个函数作为reducer。
+*
+*
+* 当执行这个reducer时，具体过程为：
+* 按照finalReducers中的键从currentState中取值，然后将值传入finalReducers中对应的reducer里执行，然后将返回值再传给currentState中对应的位置。
+*
+* */
+
+
+
 export default function combineReducers(reducers) {
   const reducerKeys = Object.keys(reducers)
   const finalReducers = {}
@@ -158,9 +171,11 @@ export default function combineReducers(reducers) {
         warning(warningMessage)
       }
     }
+
     //判断前后状态是否改变
     let hasChanged = false
     const nextState = {}
+
     for (let i = 0; i < finalReducerKeys.length; i++) {
       const key = finalReducerKeys[i]
       const reducer = finalReducers[key]

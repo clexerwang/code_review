@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b4714dc-f1e0-49d9-af83-37767ad7de2e" name="Default Changelist" comment="" />
+    <list default="true" id="2b4714dc-f1e0-49d9-af83-37767ad7de2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preact/dom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/preact/dom/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preact/vdom/diff.js" beforeDir="false" afterPath="$PROJECT_DIR$/preact/vdom/diff.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -13,7 +17,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preact/vdom/component.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4309">
+              <caret line="377" column="27" selection-start-line="377" selection-start-column="27" selection-end-line="377" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#92#0" expanded="true" />
+                <element signature="e#4764#6589#0" />
+                <element signature="e#6634#8188#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/preact/vdom/diff.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4554">
+              <caret line="253" lean-forward="true" selection-start-line="253" selection-end-line="253" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preact/dom/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2034">
+              <caret line="114" column="31" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -21,6 +64,9 @@
       <find>_component</find>
       <find>nextBase</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -32,8 +78,10 @@
         <option value="$PROJECT_DIR$/src/B.js" />
         <option value="$PROJECT_DIR$/src/A.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/preact/vdom/diff.js" />
+        <option value="$PROJECT_DIR$/preact/dom/index.js" />
         <option value="$PROJECT_DIR$/preact/vdom/component.js" />
+        <option value="$PROJECT_DIR$/preact/component.js" />
+        <option value="$PROJECT_DIR$/preact/vdom/diff.js" />
       </list>
     </option>
   </component>
@@ -42,6 +90,7 @@
     <option name="width" value="1395" />
     <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -51,29 +100,25 @@
         <subPane>
           <expand>
             <path>
-              <item name="preact_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="preact_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="preact_codereview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="preact_codereview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="preact_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="preact_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="preact_codereview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="preact_codereview" type="462c0819:PsiDirectoryNode" />
               <item name="preact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="preact_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="preact_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="preact_codereview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="preact_codereview" type="462c0819:PsiDirectoryNode" />
+              <item name="preact" type="462c0819:PsiDirectoryNode" />
+              <item name="dom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="preact_codereview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="preact_codereview" type="462c0819:PsiDirectoryNode" />
               <item name="preact" type="462c0819:PsiDirectoryNode" />
               <item name="vdom" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="preact_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="preact_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="preact_learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="preact_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,16 +158,18 @@
       <updated>1545616500798</updated>
       <workItem from="1545616502300" duration="18175000" />
       <workItem from="1545705389826" duration="2012000" />
+      <workItem from="1546170904468" duration="4201000" />
+      <workItem from="1546392231851" duration="3031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20187000" />
+    <option name="totallyTimeSpent" value="27419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1395" height="877" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16157205" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16157205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -226,22 +273,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preact/vdom/diff.js">
+    <entry file="file://$PROJECT_DIR$/preact/vdom/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        <state relative-caret-position="-241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/dom/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="114" column="31" selection-start-line="114" selection-start-column="31" selection-end-line="114" selection-end-column="31" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/render.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/h.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preact/vdom/component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="364" selection-start-line="364" selection-end-line="364" />
+        <state relative-caret-position="4309">
+          <caret line="377" column="27" selection-start-line="377" selection-start-column="27" selection-end-line="377" selection-end-column="27" />
           <folding>
             <element signature="e#0#92#0" expanded="true" />
+            <element signature="e#4764#6589#0" />
+            <element signature="e#6634#8188#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/vdom/diff.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4554">
+          <caret line="253" lean-forward="true" selection-start-line="253" selection-end-line="253" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>

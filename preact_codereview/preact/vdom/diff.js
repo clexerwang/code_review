@@ -418,7 +418,6 @@ function diffAttributes(dom, attrs, old) {
     // remove attributes no longer present on the vnode by setting them to undefined
     for (name in old) {
         //遍历old对象，如果一个属性存在于old，但不存在于attrs中时,就要把这个属性置为空
-        //attrs中存储的就是要渲染的虚拟dom的属性
         if (!(attrs && attrs[name]!=null) && old[name]!=null) {
             setAccessor(dom, name, old[name], old[name] = undefined, isSvgMode);
         }
