@@ -24,3 +24,5 @@ yarn-error.log*
 
 webpack.config.js
 package-lock.json
+
+.babelrc
