@@ -6,14 +6,13 @@
 
 ### 目前已完成的有：
 
-Preact(一个轻量级的类React框架)：<a href="">Link</a>
+##### Preact(一个轻量级的类React框架)：<a href="">Link</a>
 
 ##### react-redux：<a href="">Link</a>
-##### react-router：<a href="">Link</a>,Histroy库：<a href="">Link</a>
+##### react-router：<a href="">Link</a>(包括Histroy库：<a href="">Link</a>）
 ##### redux：<a href="">Link </a>
-<br/>
-
 #### -----react 三件套-------
+
 #### Todo：<br/>
 anujs，React....
 
