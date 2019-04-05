@@ -2,161 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b4714dc-f1e0-49d9-af83-37767ad7de2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preact/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/preact/component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preact/dom/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/preact/dom/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preact/enter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/preact/h.js" beforeDir="false" afterPath="$PROJECT_DIR$/preact/h.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preact/vdom/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/preact/vdom/component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preact/vdom/diff.js" beforeDir="false" afterPath="$PROJECT_DIR$/preact/vdom/diff.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/A.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/B.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_codereview/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/CODE_OF_CONDUCT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/LICENSE-logo.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/PATRONS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/FAQ.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/Feedback.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/Glossary.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/Troubleshooting.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/advanced/AsyncActions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/advanced/AsyncFlow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/advanced/ExampleRedditAPI.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/advanced/Middleware.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/advanced/NextSteps.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/advanced/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/advanced/UsageWithReactRouter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/api/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/api/Store.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/api/applyMiddleware.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/api/bindActionCreators.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/api/combineReducers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/api/compose.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/api/createStore.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/basics/Actions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/basics/DataFlow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/basics/ExampleTodoList.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/basics/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/basics/Reducers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/basics/Store.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/basics/UsageWithReact.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/Actions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/CodeStructure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/DesignDecisions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/General.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/ImmutableData.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/Miscellaneous.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/OrganizingState.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/Performance.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/ReactRedux.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/Reducers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/faq/StoreSetup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/CoreConcepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/Ecosystem.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/Examples.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/GettingStarted.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/Installation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/LearningResources.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/Motivation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/PriorArt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/introduction/ThreePrinciples.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/CodeSplitting.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/ComputingDerivedData.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/ConfiguringYourStore.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/ImplementingUndoHistory.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/IsolatingSubapps.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/MigratingToRedux.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/ReducingBoilerplate.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/ServerRendering.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/UsingImmutableJS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/UsingObjectSpreadOperator.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/WritingTests.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/BasicReducerStructure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/BeyondCombineReducers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/ImmutableUpdatePatterns.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/InitializingState.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/NormalizingStateShape.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/PrerequisiteConcepts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/RefactoringReducersExample.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/ReusingReducerLogic.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/SplittingReducerLogic.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/StructuringReducers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/UpdatingNormalizedData.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/docs/recipes/structuring-reducers/UsingCombineReducers.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/index.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/logo/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/logo/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/logo/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/logo/logo-title-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/logo/logo-title-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/logo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/logo/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/rollup.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/src/applyMiddleware.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_codereview/src/applyMiddleware.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/src/bindActionCreators.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_codereview/src/bindActionCreators.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/src/combineReducers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_codereview/src/combineReducers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/src/compose.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_codereview/src/compose.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/src/createStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_codereview/src/createStore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/src/utils/isPlainObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_codereview/src/utils/isPlainObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/applyMiddleware.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/bindActionCreators.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/combineReducers.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/compose.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/createStore.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/helpers/actionCreators.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/helpers/actionTypes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/helpers/middleware.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/helpers/reducers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/actionCreators.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/actions.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/compose.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/dispatch.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/enhancers.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/injectedDispatch.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/middleware.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/reducers.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/store.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/typescript/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/utils/isPlainObject.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/test/utils/warning.spec.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/_redirects" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/core/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/pages/en/404.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/pages/en/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/sidebars.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/siteConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/css/404.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/css/codeblock.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/css/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/cogs-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/cubes-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/external-link-square-alt-solid.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/favicon/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/github-brands.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/noun_Check_1870817.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/noun_debugging_1978252.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/redux-logo-landscape.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/redux-logo-twitter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/redux.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/img/redux_white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/scripts/codeblock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../redux_codereview/website/static/scripts/sidebarScroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -169,28 +15,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preact/vdom/diff.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/preact/dom/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="254" column="46" selection-start-line="254" selection-start-column="46" selection-end-line="254" selection-end-column="46" />
+            <state relative-caret-position="382">
+              <caret line="81" column="46" lean-forward="true" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="46" />
               <folding>
-                <element signature="e#0#40#0" expanded="true" />
+                <element signature="e#0#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/preact/vdom/component.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preact/vdom/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="38" selection-start-line="37" selection-end-line="38" />
-              <folding>
-                <element signature="e#0#92#0" expanded="true" />
-              </folding>
-            </state>
+            <state relative-caret-position="-488" />
           </provider>
         </entry>
       </file>
@@ -198,21 +39,9 @@
         <entry file="file://$PROJECT_DIR$/preact/component.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1080">
-              <caret line="60" column="15" lean-forward="true" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+              <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/preact/render-queue.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -233,6 +62,7 @@
       <find>diff</find>
       <find>mountAll</find>
       <find>setState</find>
+      <find>setA</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -273,18 +103,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="preact_codereview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="preact_codereview" type="462c0819:PsiDirectoryNode" />
+              <item name="Preact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Preact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Preact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Preact" type="462c0819:PsiDirectoryNode" />
+              <item name="preact" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Preact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Preact" type="462c0819:PsiDirectoryNode" />
+              <item name="preact" type="462c0819:PsiDirectoryNode" />
+              <item name="dom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Preact" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Preact" type="462c0819:PsiDirectoryNode" />
+              <item name="preact" type="462c0819:PsiDirectoryNode" />
+              <item name="vdom" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,20 +171,21 @@
       <workItem from="1553172823926" duration="34000" />
       <workItem from="1553172998350" duration="31000" />
       <workItem from="1554179959319" duration="20615000" />
+      <workItem from="1554451652433" duration="386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48099000" />
+    <option name="totallyTimeSpent" value="48485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1395" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13901019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -349,6 +197,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007278" side_tool="true" weight="0.3299363" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4992722" weight="0.68025476" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -358,37 +207,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/may-dom/cloneElement.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/may-dom/component.spec.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="45" lean-forward="true" selection-start-column="45" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/may-dom/cloneElement.spec.js" />
+    <entry file="file://$PROJECT_DIR$/test/may-dom/component.spec.jsx" />
+    <entry file="file://$PROJECT_DIR$/karma.conf.js" />
+    <entry file="file://$PROJECT_DIR$/test/src/main.js" />
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -399,19 +221,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preact/vdom/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preact/vdom/component-recycler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="37" column="30" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preact/enter.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/enter.js" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -452,16 +262,6 @@
     <entry file="file://$PROJECT_DIR$/preact/vnode.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/preact/dom/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="115" column="34" lean-forward="true" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/preact/h.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-650">
@@ -478,13 +278,6 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/preact/constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/preact/options.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -496,16 +289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/preact/render-queue.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -526,12 +309,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preact/vdom/diff.js">
+    <entry file="file://$PROJECT_DIR$/preact/vdom/component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="254" column="46" selection-start-line="254" selection-start-column="46" selection-end-line="254" selection-end-column="46" />
+        <state relative-caret-position="36">
+          <caret line="38" selection-start-line="37" selection-end-line="38" />
           <folding>
-            <element signature="e#0#40#0" expanded="true" />
+            <element signature="e#0#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/vdom/component-recycler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/vdom/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/constants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/render-queue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -539,19 +351,29 @@
     <entry file="file://$PROJECT_DIR$/preact/component.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
-          <caret line="60" column="15" lean-forward="true" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+          <caret line="60" column="15" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
           <folding>
             <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/preact/vdom/component.js">
+    <entry file="file://$PROJECT_DIR$/preact/vdom/diff.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="38" selection-start-line="37" selection-end-line="38" />
+        <state relative-caret-position="7596">
+          <caret line="422" column="16" selection-start-line="422" selection-start-column="12" selection-end-line="422" selection-end-column="16" />
           <folding>
-            <element signature="e#0#92#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preact/dom/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="81" column="46" lean-forward="true" selection-start-line="81" selection-start-column="36" selection-end-line="81" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
           </folding>
         </state>
       </provider>
